@@ -1,4 +1,4 @@
-# Hi, I'm Sanket 👍👨🏽‍💻
+# Hi, I'm Sanket 👨🏽‍💻
 
 I'm a software engineer who is passionate about open-source community. Some technologies I enjoy working with Swift, NodeJs and MongoDB.
 
