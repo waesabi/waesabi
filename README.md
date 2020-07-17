@@ -1,4 +1,12 @@
-### Hi there 👋
+# Hi, I'm Sanket 👍👨🏽‍💻
+
+I'm a software engineer who is passionate about open-source community. Some technologies I enjoy working with Swift ,NodeJs and MongoDB.
+
+🌱 I’m currently learning NodeJs and MongoDB
+
+📫 How to reach me:
+- <a href="https://www.linkedin.com/in/sanket-kumar-1923b9107/">LinkedIn</a> 💼
+
 
 <!--
 **waesabi/waesabi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
