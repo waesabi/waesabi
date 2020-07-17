@@ -2,7 +2,8 @@
 
 I'm a software engineer who is passionate about open-source community. Some technologies I enjoy working with Swift ,NodeJs and MongoDB.
 
-🌱 I’m currently learning NodeJs and MongoDB
+- 🔭 I’m currently working on Online Coding Judge API using NodeJs , MongoDB.
+
 
 📫 How to reach me:
 - <a href="https://www.linkedin.com/in/sanket-kumar-1923b9107/">LinkedIn</a> 💼
