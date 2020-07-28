@@ -8,7 +8,6 @@
 I'm a software engineer who is passionate about open-source community. Some technologies I enjoy working with Swift, NodeJs and MongoDB.
 
 - 🔭 I’m currently working on Online Coding Judge API using NodeJs and MongoDB.
-- ⚡ Fun fact: I am a Arctic Code Vault Contributor
 
 
 
@@ -16,6 +15,8 @@ I'm a software engineer who is passionate about open-source community. Some tech
 **waesabi/waesabi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+- ⚡ Fun fact: I am a Arctic Code Vault Contributor
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
