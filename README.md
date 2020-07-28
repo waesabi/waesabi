@@ -4,11 +4,31 @@
 
 👨‍🎓 Computer Science & Engineer from NIT Durgapur
 
-
 I'm a software engineer who is passionate about open-source community. Some technologies I enjoy working with Swift, NodeJs and MongoDB.
 
 - 🔭 I’m currently working on Online Coding Judge API using NodeJs and MongoDB.
 
+```Swift 
+let aboutMe = {
+    return [
+        "askMyAbout": [
+            "iOS Dev",
+            "tech",
+            "music",
+            "anime"
+        ],
+        "technologies": [
+            "languages": ["Java","Swift","C++","JavaScript"],
+            "Mobile": ["iOS","Android"],
+            "backEnd": ["NodeJs"],
+            "databases": ["MySql","MongoDb"]
+        ],
+        "Others": [
+            "Data Structure & Algorithm",
+        ],
+    ]
+}
+```
 
 
 <!--
@@ -16,8 +36,6 @@ I'm a software engineer who is passionate about open-source community. Some tech
 
 Here are some ideas to get you started:
 - ⚡ Fun fact: I am a Arctic Code Vault Contributor
-
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -26,24 +44,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-[![Portfolio](https://img.shields.io/badge/-Portfolio-yellow)](https://dipeshpatil.github.io/)
-```js
-export default () => ({
-  askMeAbout: [
-    "webdev", "tech", "music",
-    "mathematics", "research"
-  ],
-  technologies: {
-    frontEnd: {
-      js: ["react"],
-      css: ["materialize", "bulma", "bootstrap"]
-    },
-    backEnd: {
-      js: ["node", "express"],
-      python: ["flask"],
-    },
-    languages: ["java", "javascript", "go", "python"],
-    databases: ["mongo", "firebase-database", "MySQL"]
-  },
-});
 -->
