@@ -7,7 +7,7 @@
 
 I'm a software engineer who is passionate about open-source community. Some technologies I enjoy working with Swift, NodeJs and MongoDB.
 
-- 🔭 I’m currently working on Online Coding Judge API using SpringBoot , SQL.
+- 🔭 I’m currently working on Online Coding Judge API using NodeJs and MongoDB.
 - ⚡ Fun fact: I am a Arctic Code Vault Contributor
 
 
