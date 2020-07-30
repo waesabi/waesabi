@@ -19,11 +19,11 @@ let aboutMe = {
         ],
         "technologies": [
             "languages": ["Java","Swift","C++","JavaScript"],
-            "Mobile": ["iOS","Android"],
+            "mobile": ["iOS","Android"],
             "backEnd": ["NodeJs"],
             "databases": ["MySql","MongoDb"]
         ],
-        "Others": [
+        "others": [
             "Data Structure & Algorithm",
         ],
     ]
