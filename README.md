@@ -6,7 +6,6 @@
 
 I'm a software engineer who is passionate about open-source community. Some technologies I enjoy working with Swift, NodeJs and MongoDB.
 
-- 🔭 I’m currently working on Online Coding Judge API using NodeJs and MongoDB.
 
 ```Swift 
 let aboutMe = {
@@ -44,4 +43,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 🔭 I’m currently working on Online Coding Judge API using NodeJs and MongoDB.
+
 -->
