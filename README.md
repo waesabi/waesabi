@@ -4,7 +4,8 @@
 
 👨‍🎓 Computer Science & Engineer from NIT Durgapur
 
-I'm a software engineer who is passionate about open-source community. Some technologies I enjoy working with Swift, NodeJs and MongoDB.
+I'm a software engineer who is passionate about open-source community. Some technologies I enjoy working with Swift, Java.
+- 🔭 I’m currently working on Online Coding Judge API using SpringBoot and MySQL.
 
 
 ```Swift 
@@ -19,7 +20,7 @@ let aboutMe = {
         "technologies": [
             "languages": ["Java","Swift","C++","JavaScript"],
             "mobile": ["iOS","Android"],
-            "backEnd": ["NodeJs"],
+            "backEnd": ["SpringBoot", "NodeJS"],
             "databases": ["MySql","MongoDb"]
         ],
         "others": [
