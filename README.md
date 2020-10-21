@@ -5,8 +5,6 @@
 👨‍🎓 Computer Science & Engineer from NIT Durgapur
 
 I'm a software engineer who is passionate about open-source community. Some technologies I enjoy working with Swift, Java.
-- 🔭 I’m currently working on Online Coding Judge API using SpringBoot and MySQL.
-
 
 ```Swift 
 let aboutMe = {
@@ -45,5 +43,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - 🔭 I’m currently working on Online Coding Judge API using NodeJs and MongoDB.
-
+- 🔭 I’m currently working on Online Coding Judge API using SpringBoot and MySQL.
 -->
