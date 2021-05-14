@@ -4,7 +4,7 @@
 
 👨‍🎓 Computer Science & Engineer from NIT Durgapur
 
-I'm a software engineer who is passionate about open-source community. Some technologies I enjoy working with Swift, Java.
+I'm a software engineer who is passionate about open-source community. Some technologies I enjoy working with Swift, Typescript.
 
 ```Swift 
 let aboutMe = {
@@ -16,10 +16,10 @@ let aboutMe = {
             "anime"
         ],
         "technologies": [
-            "languages": ["Java","Swift","C++","JavaScript"],
+            "languages": ["Java","Swift","Typescript"],
             "mobile": ["iOS","Android"],
-            "backEnd": ["SpringBoot", "NodeJS"],
-            "databases": ["MySql","MongoDb"]
+            "backEnd": ["NodeJS"],
+            "databases": ["MongoDb"]
         ],
         "others": [
             "Data Structure & Algorithm",
