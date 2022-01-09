@@ -16,10 +16,8 @@ let aboutMe = {
             "anime"
         ],
         "technologies": [
-            "languages": ["Java","Swift","Typescript"],
-            "mobile": ["iOS","Android"],
-            "backEnd": ["NodeJS"],
-            "databases": ["MongoDb"]
+            "languages": ["Java","Swift"],
+            "mobile": ["iOS","Android"]           
         ],
         "others": [
             "Data Structure & Algorithm",
